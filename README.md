@@ -22,7 +22,7 @@ You can also request a quote on [Monethic](https://monethic.io) or [Cantina](htt
 
 | Protocol | Type | Report |
 | - | - | :-: |
-| 1. [Stader Labs - SD Token Staking - ][https://www.staderlabs.com](https://www.staderlabs.com)  | Rust, CosmWasm | [📄 Report.pdf)](https://github.com/HalbornSecurity/PublicReports/blob/master/CosmWasm%20Smart%20Contract%20Audits/Stader_Labs_SD_Token_Staking_Contracts_CosmWasm_Smart_Contract_Security_Audit_Report_Halborn_Final.pdf) |
+| 1. [Stader Labs - SD Token Staking](https://www.staderlabs.com)  | Rust, CosmWasm | [📄 Report.pdf)](https://github.com/HalbornSecurity/PublicReports/blob/master/CosmWasm%20Smart%20Contract%20Audits/Stader_Labs_SD_Token_Staking_Contracts_CosmWasm_Smart_Contract_Security_Audit_Report_Halborn_Final.pdf) |
 | 2. [Astroport Concentrated Liq Pool-Injective Orderbook Integration]([https://astroport.fi/en](https://astroport.fi/en))  | Rust, CosmWasm | [📄 Report.pdf](https://github.com/oak-security/audit-reports/blob/master/Astroport/2023-07-13%20Audit%20Report%20-%20Astroport%20Concentrated%20Liquidity%20Pool%20with%20Injective%20Orderbook%20Integration%20v1.0.pdf) |
 | 3. [Astroport - Astral Assembly contracts]([https://astroport.fi/en](https://astroport.fi/en))  | Rust, CosmWasm | [📄 Report.pdf](https://github.com/HalbornSecurity/PublicReports/blob/master/CosmWasm%20Smart%20Contract%20Audits/Astroport_fi_Astral_Assembly_CosmWasm_Smart_Contract_Security_Audit_Report_Halborn_Final.pdf) |
 | 4. [Astroport - Concentrated Liquidity Pool]([https://astroport.fi/en](https://astroport.fi/en))  | Rust, CosmWasm | [📄 Report.pdf](https://github.com/oak-security/audit-reports/blob/master/Astroport/2023-03-16%20Audit%20Report%20-%20Astroport%20Concentrated%20Liquidity%20Pool%20v1.0.pdf) |
