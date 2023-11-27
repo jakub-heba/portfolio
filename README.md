@@ -15,7 +15,7 @@ You can also request a quote on [Monethic](https://monethic.io) or [Cantina](htt
 
 | Protocol | Type | Report |
 | - | - | :-: |
-| [Orderly Network]([https://lukso.network/](https://orderly.network))  | Rust, NEAR | [📄](https://github.com/OrderlyNetwork/Audits/blob/main/Independent%20Researcher_09_2023.pdf) |
+| [Orderly Network - Asset Manager Smart Contract]([https://lukso.network/](https://orderly.network))  | Rust, NEAR | [📄](https://github.com/OrderlyNetwork/Audits/blob/main/Independent%20Researcher_09_2023.pdf) |
 
 
 ## Audits in a team
