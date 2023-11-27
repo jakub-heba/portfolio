@@ -15,7 +15,7 @@ You can also request a quote on [Monethic](https://monethic.io) or [Cantina](htt
 
 | Protocol | Type | Report |
 | - | - | :-: |
-| [Orderly Network - Asset Manager Smart Contract]([https://lukso.network/](https://orderly.network))  | Rust, NEAR | [📄 Report.pdf](https://github.com/OrderlyNetwork/Audits/blob/main/Independent%20Researcher_09_2023.pdf) |
+| [Orderly Network](https://orderly.network) - Asset Manager Smart Contract  | Rust, NEAR | [📄 Report.pdf](https://github.com/OrderlyNetwork/Audits/blob/main/Independent%20Researcher_09_2023.pdf) |
 
 
 ## Audits in a team
@@ -23,17 +23,17 @@ You can also request a quote on [Monethic](https://monethic.io) or [Cantina](htt
 | Protocol | Type | Report |
 | - | - | :-: |
 | [Stader Labs](https://www.staderlabs.com) - SD Token Staking  | Rust, CosmWasm | [📄 Report.pdf)](https://github.com/HalbornSecurity/PublicReports/blob/master/CosmWasm%20Smart%20Contract%20Audits/Stader_Labs_SD_Token_Staking_Contracts_CosmWasm_Smart_Contract_Security_Audit_Report_Halborn_Final.pdf) |
-| [Astroport](https://astroport.fi/en](https://astroport.fi/en) Concentrated Liq Pool - Injective Orderbook Integration  | Rust, CosmWasm | [📄 Report.pdf](https://github.com/oak-security/audit-reports/blob/master/Astroport/2023-07-13%20Audit%20Report%20-%20Astroport%20Concentrated%20Liquidity%20Pool%20with%20Injective%20Orderbook%20Integration%20v1.0.pdf) |
-| [Astroport](https://astroport.fi/en](https://astroport.fi/en) - Astral Assembly contracts  | Rust, CosmWasm | [📄 Report.pdf](https://github.com/HalbornSecurity/PublicReports/blob/master/CosmWasm%20Smart%20Contract%20Audits/Astroport_fi_Astral_Assembly_CosmWasm_Smart_Contract_Security_Audit_Report_Halborn_Final.pdf) |
-| [Astroport](https://astroport.fi/en](https://astroport.fi/en) - Concentrated Liquidity Pool  | Rust, CosmWasm | [📄 Report.pdf](https://github.com/oak-security/audit-reports/blob/master/Astroport/2023-03-16%20Audit%20Report%20-%20Astroport%20Concentrated%20Liquidity%20Pool%20v1.0.pdf) |
-| [Brokkr Protocol - Delta Neutral]([https://brokkr.finance/](https://brokkr.finance/))  | Rust, CosmWasm | [📄 Report.pdf](https://github.com/HalbornSecurity/PublicReports/blob/master/CosmWasm%20Smart%20Contract%20Audits/Brokkr_Protocol_Delta_Neutral_CosmWasm_Smart_Contract_Security_Audit_Report_Halborn_Final.pdf) |
-| [Brokkr Protocol - Long Term Bonding]([https://brokkr.finance/](https://brokkr.finance/))  | Rust, CosmWasm | [📄 Report.pdf](https://github.com/HalbornSecurity/PublicReports/blob/master/CosmWasm%20Smart%20Contract%20Audits/Brokkr_Protocol_Long_Term_Bonding_CosmWasm_Smart_Contract_Security_Audit_Report_Halborn_Final.pdf) |
-| 7. [Osmosis Labs - Osmosis Transmuter]([https://osmosis.zone/](https://osmosis.zone/))  | Rust, CosmWasm | [📄 Report.pdf](https://github.com/oak-security/audit-reports/blob/master/Osmosis%20Labs/2023-10-09%20Audit%20Report%20-%20Osmosis%20Transmuter%20v1.0.pdf) |
-| 8. [Stargaze Reserve Auctions]([https://www.stargaze.zone/](https://www.stargaze.zone/))  | Rust, CosmWasm | [📄 Report.pdf](https://github.com/oak-security/audit-reports/blob/master/Stargaze/2023-06-20%20Audit%20Report%20-%20Stargaze%20Reserve%20Auctions%20v1.0.pdf) |
-| 9. [Calculated Finance]([https://calculated.fi/](https://calculated.fi/))  | Rust, CosmWasm | [📄 Report.pdf](https://github.com/oak-security/audit-reports/blob/master/Calculated%20Finance/2023-05-23%20Audit%20Report%20-%20Calculated%20Finance%20v1.1.pdf) |
-| 10. [Hadron Labs Lido Satellite]([https://hadronlabs.org/](https://hadronlabs.org/))  | Rust, CosmWasm | [📄 Report.pdf](https://github.com/oak-security/audit-reports/blob/master/Hadron%20Labs/2023-07-29%20Audit%20Report%20-%20Hadron%20Labs%20Lido%20Satellite%20v1.0.pdf) |
-| 11. [Snowfork - SSZ serialization library - Rust]([https://snowfork.com/](https://snowfork.com/))  | Rust, library | [📄 Report.pdf](https://github.com/oak-security/audit-reports/blob/master/ssz-rs/2023-09-28%20Audit%20Report%20-%20ssz-rs%20v1.0.pdf) |
-| 12. [Membrane - CosmWasm]([https://www.membrane.fi/](https://www.membrane.fi/))  | Rust, CosmWasm | [📄 Report.pdf](https://github.com/oak-security/audit-reports/blob/master/Membrane/2023-06-15%20Audit%20Report%20-%20Membrane%20v1.0.pdf) |
+| [Astroport](https://astroport.fi/en) Concentrated Liq Pool - Injective Orderbook Integration  | Rust, CosmWasm | [📄 Report.pdf](https://github.com/oak-security/audit-reports/blob/master/Astroport/2023-07-13%20Audit%20Report%20-%20Astroport%20Concentrated%20Liquidity%20Pool%20with%20Injective%20Orderbook%20Integration%20v1.0.pdf) |
+| [Astroport](https://astroport.fi/en) - Astral Assembly contracts  | Rust, CosmWasm | [📄 Report.pdf](https://github.com/HalbornSecurity/PublicReports/blob/master/CosmWasm%20Smart%20Contract%20Audits/Astroport_fi_Astral_Assembly_CosmWasm_Smart_Contract_Security_Audit_Report_Halborn_Final.pdf) |
+| [Astroport](https://astroport.fi/en) - Concentrated Liquidity Pool  | Rust, CosmWasm | [📄 Report.pdf](https://github.com/oak-security/audit-reports/blob/master/Astroport/2023-03-16%20Audit%20Report%20-%20Astroport%20Concentrated%20Liquidity%20Pool%20v1.0.pdf) |
+| [Brokkr Protocol](https://brokkr.finance) - Delta Neutral | Rust, CosmWasm | [📄 Report.pdf](https://github.com/HalbornSecurity/PublicReports/blob/master/CosmWasm%20Smart%20Contract%20Audits/Brokkr_Protocol_Delta_Neutral_CosmWasm_Smart_Contract_Security_Audit_Report_Halborn_Final.pdf) |
+| [Brokkr Protocol](https://brokkr.finance) - Long Term Bonding  | Rust, CosmWasm | [📄 Report.pdf](https://github.com/HalbornSecurity/PublicReports/blob/master/CosmWasm%20Smart%20Contract%20Audits/Brokkr_Protocol_Long_Term_Bonding_CosmWasm_Smart_Contract_Security_Audit_Report_Halborn_Final.pdf) |
+| 7. [Osmosis Labs](https://osmosis.zone/) - Osmosis Transmuter  | Rust, CosmWasm | [📄 Report.pdf](https://github.com/oak-security/audit-reports/blob/master/Osmosis%20Labs/2023-10-09%20Audit%20Report%20-%20Osmosis%20Transmuter%20v1.0.pdf) |
+| 8. [Stargaze](https://www.stargaze.zone/) - Reserve Auctions | Rust, CosmWasm | [📄 Report.pdf](https://github.com/oak-security/audit-reports/blob/master/Stargaze/2023-06-20%20Audit%20Report%20-%20Stargaze%20Reserve%20Auctions%20v1.0.pdf) |
+| 9. [Calculated Finance](https://calculated.fi/) - Contracts  | Rust, CosmWasm | [📄 Report.pdf](https://github.com/oak-security/audit-reports/blob/master/Calculated%20Finance/2023-05-23%20Audit%20Report%20-%20Calculated%20Finance%20v1.1.pdf) |
+| 10. [Hadron Labs](https://hadronlabs.org/) Lido Satellite | Rust, CosmWasm | [📄 Report.pdf](https://github.com/oak-security/audit-reports/blob/master/Hadron%20Labs/2023-07-29%20Audit%20Report%20-%20Hadron%20Labs%20Lido%20Satellite%20v1.0.pdf) |
+| 11. [Snowfork](https://snowfork.com/) - SSZ serialization library - Rust  | Rust, library | [📄 Report.pdf](https://github.com/oak-security/audit-reports/blob/master/ssz-rs/2023-09-28%20Audit%20Report%20-%20ssz-rs%20v1.0.pdf) |
+| 12. [Membrane](https://www.membrane.fi/) - Contracts | Rust, CosmWasm | [📄 Report.pdf](https://github.com/oak-security/audit-reports/blob/master/Membrane/2023-06-15%20Audit%20Report%20-%20Membrane%20v1.0.pdf) |
 
 ## Certificates
 
