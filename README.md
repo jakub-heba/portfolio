@@ -37,7 +37,7 @@ You can also request a quote on [Monethic](https://monethic.io) or [Cantina](htt
 
 ## Certificates
 
-- Offensive Security Certified Expert - [Offensive Security OSCE proof](https://www.credly.com/badges/03c84c49-f2d6-47b9-9aaf-ff6248d49f28?source=linked_in_profile)
-- Offensive Security Certified Professional - [Offensive Security OSCP proof](https://www.credly.com/badges/bc74ee74-7934-4398-a4c8-5c76598d63ac)
+- Offensive Security Certified Expert (OSCE) - [Offensive Security OSCE proof](https://www.credly.com/badges/03c84c49-f2d6-47b9-9aaf-ff6248d49f28?source=linked_in_profile)
+- Offensive Security Certified Professional (OSCP) - [Offensive Security OSCP proof](https://www.credly.com/badges/bc74ee74-7934-4398-a4c8-5c76598d63ac)
 - Lead ISO27001 Auditor - Information Security Management Systems (ISMS) Auditor/Lead Auditor (BS ISO/IEC 27001:2013)
 
