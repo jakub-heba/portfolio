@@ -1,4 +1,4 @@
-# Portfolio of audits, certificates and articles
+# Portfolio of audits and certificates
 
 ## About me
 
@@ -35,4 +35,9 @@ You can also request a quote on [Monethic](https://monethic.io) or [Cantina](htt
 | 11. [Snowfork - SSZ serialization library - Rust]([https://snowfork.com/](https://snowfork.com/))  | Rust, library | [📄 Report.pdf](https://github.com/oak-security/audit-reports/blob/master/ssz-rs/2023-09-28%20Audit%20Report%20-%20ssz-rs%20v1.0.pdf) |
 | 12. [Membrane - CosmWasm]([https://www.membrane.fi/](https://www.membrane.fi/))  | Rust, CosmWasm | [📄 Report.pdf](https://github.com/oak-security/audit-reports/blob/master/Membrane/2023-06-15%20Audit%20Report%20-%20Membrane%20v1.0.pdf) |
 
+## Certificates
+
+- Offensive Security Certified Expert - [Offensive Security OSCE proof](https://www.credly.com/badges/03c84c49-f2d6-47b9-9aaf-ff6248d49f28?source=linked_in_profile)
+- Offensive Security Certified Professional - [Offensive Security OSCP proof](https://www.credly.com/badges/bc74ee74-7934-4398-a4c8-5c76598d63ac)
+- Lead ISO27001 Auditor - Information Security Management Systems (ISMS) Auditor/Lead Auditor (BS ISO/IEC 27001:2013)
 
