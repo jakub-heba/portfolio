@@ -2,7 +2,7 @@
 
 ## About me
 
-Jakub Heba is a cybersecurity expert with over six years of experience in the industry. For two years associated with blockchain technology as a Smart Contract and Blockchain auditor. He has conducted over 35 audits of various protocols, mostly related to Decentralized Finances. He specializes in the security of contracts written in Rust, such as CosmWasm, NEAR, Substrate, Scrypto or MultiversX (Elrond), as well as has a deep technical understanding of EVM and Solidity. He participated in assessments testing low-level aspects of blockchain technology, such as finality proof verifications, serialization libraries, as well as implementations of bridges between many different ecosystems. He has experience in auditing Layer 1 Blockchains written in Rust and MOVE. Before moving to Web3, he was a Lead Security Researcher and Penetration Tester managing a team of up to 10 engineers. He also specialized in low-level binary exploitation in both UNIX and Windows environments. Holder of OSCP, OSCE and Lead ISO27001 Auditor certificates.
+Jakub Heba is a cybersecurity expert with almost seven years of experience in the industry. For two years associated with blockchain technology as a Smart Contract and Blockchain auditor. He has conducted over 35 audits of various protocols, mostly related to Decentralized Finances. He specializes in the security of contracts written in Rust, in technologies such as CosmWasm, NEAR, Ink!, Substrate, Scrypto or MultiversX (Elrond), as well as has a deep technical understanding of EVM and Solidity. He participated in assessments testing low-level aspects of blockchain technology, such as finality proof verifications, serialization libraries, as well as implementations of bridges between many different ecosystems. He has experience in auditing Layer 1 Blockchains written in Rust and MOVE. Additionally, he has experience in testing offchain components such as wallets and Metamask Snaps. Before moving to Web3, he was a Lead Security Researcher and Penetration Tester managing a team of up to 10 engineers. He also specialized in low-level binary exploitation in both UNIX and Windows environments. Holder of OSCP, OSCE and Lead ISO27001 Auditor certificates.
 
 Currently, I'm a Senior Blockchain Security Auditor at [Oak Security](https://oaksecurity.io/) and Smart Contract Security Auditor at [Hacken](https://hacken.io). I'm also CEO & Cofounder at [Monethic](https://monethic.io).
 
@@ -40,4 +40,12 @@ You can also request a quote on [Monethic](https://monethic.io) or [Cantina](htt
 - Offensive Security Certified Expert (OSCE) - [Offensive Security OSCE proof](https://www.credly.com/badges/03c84c49-f2d6-47b9-9aaf-ff6248d49f28?source=linked_in_profile)
 - Offensive Security Certified Professional (OSCP) - [Offensive Security OSCP proof](https://www.credly.com/badges/bc74ee74-7934-4398-a4c8-5c76598d63ac)
 - Lead ISO27001 Auditor - Information Security Management Systems (ISMS) Auditor/Lead Auditor (BS ISO/IEC 27001:2013)
+
+## CVE-s
+
+- CVE-2019-10070 - Apache Atlas, Stored Cross Site Scripting
+- CVE-2020-6856 - JOC Cockpit, Jobscheduler, XML External Entity
+- CVE-2020-6854 - JOC Cockpit, Jobscheduler, Multiple Stored Cross Site Scripting
+- CVE-2020-6855 - JOC Cockpit, Jobscheduler, Denial of Service
+- CVE-2021-3584 - Foreman, Authenticated Remote Code Execution via Sendmail configuration
 
