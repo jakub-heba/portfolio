@@ -4,7 +4,7 @@
 
 Jakub Heba is a cybersecurity expert with almost seven years of experience in the industry. For two years associated with blockchain technology as a Smart Contract and Blockchain auditor. He has conducted over 35 audits of various protocols, mostly related to Decentralized Finances. He specializes in the security of contracts written in Rust, in technologies such as CosmWasm, NEAR, Ink!, Substrate, Scrypto or MultiversX (Elrond), as well as has a deep technical understanding of EVM and Solidity. He participated in assessments testing low-level aspects of blockchain technology, such as finality proof verifications, serialization libraries, as well as implementations of bridges between many different ecosystems. He has experience in auditing Layer 1 Blockchains written in Rust and MOVE. Additionally, he has experience in testing offchain components such as wallets and Metamask Snaps. Before moving to Web3, he was a Lead Security Researcher and Penetration Tester managing a team of up to 10 engineers. He also specialized in low-level binary exploitation in both UNIX and Windows environments. Holder of OSCP, OSCE and Lead ISO27001 Auditor certificates.
 
-Currently, I'm a Senior Blockchain Security Auditor at [Oak Security](https://oaksecurity.io/) and Smart Contract Security Auditor at [Hacken](https://hacken.io). I'm also CEO & Cofounder at [Monethic](https://monethic.io).
+Currently, I'm a Senior Blockchain Security Auditor at [Oak Security](https://oaksecurity.io/) and Lead Smart Contract Security Auditor at [Hacken](https://hacken.io). I'm also CEO & Cofounder at [Monethic](https://monethic.io).
 
 For private audits or security consulting, please reach out to me on:
 - Twitter - [*@JakubHeba*](https://twitter.com/JakubHeba) 
