@@ -9,6 +9,7 @@ Currently, I'm a Senior Blockchain Security Auditor at [Oak Security](https://oa
 For private audits or security consulting, please reach out to me on:
 - Twitter - [*@JakubHeba*](https://twitter.com/JakubHeba) 
 - LinkedIn - [*Jakub Heba*](https://www.linkedin.com/in/jakub-heba-b9987315b)
+  
 You can also request a quote on [Monethic](https://monethic.io) or [Cantina](https://cantina.xyz/u/jakubheba).
 
 ## Private Audits
