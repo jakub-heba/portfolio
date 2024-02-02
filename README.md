@@ -17,6 +17,7 @@ You can also request a quote on [Monethic](https://monethic.io) or [Cantina](htt
 | Protocol | Type | Report |
 | - | - | :-: |
 | [Orderly Network](https://orderly.network) - Asset Manager Smart Contract  | Rust, NEAR | [📄 Report.pdf](https://github.com/OrderlyNetwork/Audits/blob/main/Independent%20Researcher_09_2023.pdf) |
+| [Cascadia Foundation](https://cascadia.gitbook.io/gitbook/) - Liquidity Pools Smart Contracts  | Solidity, Vyper |-|
 
 
 ## Audits in a team
