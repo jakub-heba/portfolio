@@ -18,6 +18,7 @@ You can also request a quote on [Monethic](https://monethic.io) or [Cantina](htt
 | - | - | :-: |
 | [Orderly Network](https://orderly.network) - Asset Manager Smart Contract  | Rust, NEAR | [📄 Report.pdf](https://github.com/OrderlyNetwork/Audits/blob/main/Independent%20Researcher_09_2023.pdf) |
 | [Cascadia Foundation](https://cascadia.gitbook.io/gitbook/) - Liquidity Pools (Curve fork) Contracts  | Solidity, Vyper |-|
+| [Holoride](https://dapp.holoride.com/bridge) - Holoride Ethereum <> MultiversX bridge | Rust, MultiversX/Elrond | [📄 Report.pdf](https://drive.google.com/file/d/1gAlMuEZNotejVqVdxHqVM3Qben79ETHt/view) |
 
 
 ## Audits in a team
