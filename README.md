@@ -12,7 +12,7 @@ For private audits or security consulting, please reach out to me on:
   
 You can also request a quote on [Monethic](https://monethic.io) or [Cantina](https://cantina.xyz/u/jakubheba).
 
-## Private Audits
+## Private & Solo Audits
 
 | Protocol | Type | Report |
 | - | - | :-: |
