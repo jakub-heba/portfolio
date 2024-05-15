@@ -49,6 +49,9 @@ You can also request a quote on [Monethic](https://monethic.io) or [Cantina](htt
 | [Coinhall](https://coinhall.org/) - Genie | Rust, CosmWasm | [📄 Report.pdf](https://github.com/oak-security/audit-reports/blob/master/Coinhall/2023-09-26%20Audit%20Report%20-%20Coinhall%20Genie%20v1.0.pdf) |
 | [Snowbridge](https://docs.snowbridge.network) - Ethereum <=> Polkadot bridge | Rust, Solidity, Polkadot, Ethereum | [📄 Report.pdf](https://github.com/oak-security/audit-reports/blob/main/Snowbridge/2024-01-31%20Audit%20Report%20-%20Snowbridge%20v1.0.pdf) |
 | [Snowbridge](https://docs.snowbridge.network) - Extension, Ethereum <=> Polkadot bridge | Rust, Solidity, Polkadot, Ethereum | [📄 Report.pdf](https://github.com/oak-security/audit-reports/blob/main/Snowbridge/2024-02-12%20Audit%20Report%20-%20Snowbridge%20Extension%20v1.1.pdf) |
+| [Ixo World](https://www.ixo.world) - IXO Swap | Rust, CosmWasm | [📄 Report.pdf](https://github.com/oak-security/audit-reports/blob/main/ixo/2024-03-15%20Audit%20Report%20-%20IxoSwap%20v1.0.pdf) |
+| [Ninja Blaze](https://blaze.ninja) - Ninja Blaze Double | Rust, CosmWasm | [📄 Report.pdf](https://github.com/oak-security/audit-reports/blob/main/Ninja%20Blaze/2024-05-06%20Audit%20Report%20-%20Ninja%20Blaze%20Double%20v1.0.pdf) |
+
 
 ## Certificates
 
