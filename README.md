@@ -16,6 +16,7 @@ You can also request a quote on [Monethic](https://monethic.io) or [Cantina](htt
 
 | Protocol | Type | Report |
 | - | - | :-: |
+| [Razor DEX](https://razordex.xyz/) - Decentralized Exchange contracts  | MOVE, Aptos, Sui | [📄 Report.pdf](https://github.com/Monethic/portfolio/blob/main/audit-reports/Smart%20Contract%20Audit%20Report%20-%20Razor%20DEX%20-%20MOVE%20-%20Final.pdf) |
 | [Orderly Network](https://orderly.network) - Asset Manager Smart Contract  | Rust, NEAR | [📄 Report.pdf](https://github.com/OrderlyNetwork/Audits/blob/main/Independent%20Researcher_09_2023.pdf) |
 | [Cascadia Foundation](https://cascadia.gitbook.io/gitbook/) - Liquidity Pools (Curve fork) Contracts  | Solidity, Vyper |-|
 | [Holoride](https://dapp.holoride.com/bridge) - Holoride Ethereum <> MultiversX bridge | Rust, MultiversX/Elrond | [📄 Report.pdf](https://drive.google.com/file/d/1gAlMuEZNotejVqVdxHqVM3Qben79ETHt/view) |
@@ -27,6 +28,7 @@ You can also request a quote on [Monethic](https://monethic.io) or [Cantina](htt
 | - | - | :-: |
 | [Mysten Labs](https://mystenlabs.com) - Sui - Adapter & Verifier  | MOVE, L1, Sui | [📄 Report.pdf)](https://github.com/sui-foundation/security-audits/blob/main/docs/MystenLabs_Adapter_Verifier_L1_Security_Audit_Report_Halborn_Final.pdf) |
 | [Volo Sui](https://www.volosui.com) - VOLO Liquid Staking | MOVE, Sui | [📄 Report.pdf)](https://wp.hacken.io/wp-content/uploads/2023/09/VOLO-SC_Audit_Report-2023.08.22-SA-1583.pdf) |
+| [Satay Finance](https://www.satay.finance) - Satay Aptos | MOVE, Aptos | [📄 Report.pdf)](https://github.com/satay-protocol/smart-contract-audit/blob/main/Satay_Finance_Satay_Aptos_Move_Smart_Contract_Security_Audit_Report_Halborn_Final.pdf) |
 | [Bifrost](https://bifrost.finance) - Laverage Staking | Rust, Substrate | [📄 Report.pdf)](https://github.com/oak-security/audit-reports/blob/07caf5ba430983f6b53786f54aa5a6919e99d214/Bifrost/2024-03-11%20Audit%20Report%20-%20Bifrost%20Finance%20Leveraged%20Staking%20v1.0.pdf) |
 | [Starlay Finance](https://starlay.finance) - Starlay Protocol WASM | Rust, ink! | [📄 Report.pdf)](https://github.com/oak-security/audit-reports/blob/07caf5ba430983f6b53786f54aa5a6919e99d214/Starlay/2024-03-06%20Audit%20Report%20-%20Starlay%20Protocol%20Wasm%20v1.0.pdf) |
 | [Hyperlane](https://www.hyperlane.xyz) - cw-hyperlane | Rust, CosmWasm | [📄 Report.pdf)](https://github.com/oak-security/audit-reports/blob/07caf5ba430983f6b53786f54aa5a6919e99d214/Hyperlane/2024-02-13%20Audit%20Report%20-%20cw-hyperlane%20v1.0.pdf) |
