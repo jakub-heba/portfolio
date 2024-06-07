@@ -27,7 +27,8 @@ You can also request a quote on [Monethic](https://monethic.io) or [Cantina](htt
 
 | Protocol | Type | Report |
 | - | - | :-: |
-| [Mysten Labs](https://mystenlabs.com) - Sui - Adapter & Verifier  | MOVE, L1, Sui | [📄 Report.pdf](https://github.com/sui-foundation/security-audits/blob/main/docs/MystenLabs_Adapter_Verifier_L1_Security_Audit_Report_Halborn_Final.pdf) |
+| [Layer Zero](https://mystenlabs.com) - Layer Zero V2 | Solana, Anchor, Rust | [📄 Report.pdf](https://github.com/LayerZero-Labs/Audits/blob/main/audits/Pashov-security-review-FINAL.pdf) |
+| [Mysten Labs](https://mystenlabs.com) - Sui - Adapter & Verifier | MOVE, L1, Sui | [📄 Report.pdf](https://github.com/sui-foundation/security-audits/blob/main/docs/MystenLabs_Adapter_Verifier_L1_Security_Audit_Report_Halborn_Final.pdf) |
 | [Volo Sui](https://www.volosui.com) - VOLO Liquid Staking | MOVE, Sui | [📄 Report.pdf](https://wp.hacken.io/wp-content/uploads/2023/09/VOLO-SC_Audit_Report-2023.08.22-SA-1583.pdf) |
 | [Satay Finance](https://www.satay.finance) - Satay Aptos | MOVE, Aptos | [📄 Report.pdf](https://github.com/satay-protocol/smart-contract-audit/blob/main/Satay_Finance_Satay_Aptos_Move_Smart_Contract_Security_Audit_Report_Halborn_Final.pdf) |
 | [Bifrost](https://bifrost.finance) - Laverage Staking | Rust, Substrate | [📄 Report.pdf](https://github.com/oak-security/audit-reports/blob/07caf5ba430983f6b53786f54aa5a6919e99d214/Bifrost/2024-03-11%20Audit%20Report%20-%20Bifrost%20Finance%20Leveraged%20Staking%20v1.0.pdf) |
