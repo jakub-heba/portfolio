@@ -54,6 +54,10 @@ You can also request a quote on [Monethic](https://monethic.io) or [Cantina](htt
 | [Snowbridge](https://docs.snowbridge.network) - Extension, Ethereum <=> Polkadot bridge | Rust, Solidity, Polkadot, Ethereum | [📄 Report.pdf](https://github.com/oak-security/audit-reports/blob/main/Snowbridge/2024-02-12%20Audit%20Report%20-%20Snowbridge%20Extension%20v1.1.pdf) |
 | [Ixo World](https://www.ixo.world) - IXO Swap | Rust, CosmWasm | [📄 Report.pdf](https://github.com/oak-security/audit-reports/blob/main/ixo/2024-03-15%20Audit%20Report%20-%20IxoSwap%20v1.0.pdf) |
 | [Ninja Blaze](https://blaze.ninja) - Ninja Blaze Double | Rust, CosmWasm | [📄 Report.pdf](https://github.com/oak-security/audit-reports/blob/main/Ninja%20Blaze/2024-05-06%20Audit%20Report%20-%20Ninja%20Blaze%20Double%20v1.0.pdf) |
+| [Osmosis Labs](https://osmosis.zone/) - Osmosis Transmuter v3 | Rust, CosmWasm | [📄 Report.pdf](https://github.com/oak-security/audit-reports/blob/491d60921f02ba76605fe1326c5a956fb1457647/Osmosis%20Labs/2024-05-15%20Audit%20Report%20-%20Osmosis%20Transmuter%20v3%20v1.0.pdf) |
+| [Astroport](https://astroport.fi/en) - Astroport Hub Neutron Migration | Rust, CosmWasm | [📄 Report.pdf](https://github.com/oak-security/audit-reports/blob/2f78993697732821ed8a84834f95bbea99afc78f/Astroport/2024-05-22%20Audit%20Report%20-%20Astroport%20Hub%20Neutron%20Migration%20v1.0.pdf) |
+| [Yieldmos](https://www.yieldmos.com) - Outpost Osmosis | Rust, CosmWasm | [📄 Report.pdf](https://github.com/oak-security/audit-reports/blob/6547cfbb15a0533e9dee9be0e5569e0e046ed875/Yieldmos/2024-05-17%20Audit%20Report%20-%20Yieldmos%20Outposts%20Osmosis%20v1.0.pdf) |
+
 
 
 ## Certificates
