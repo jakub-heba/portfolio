@@ -16,6 +16,9 @@ You can also request a quote on [Monethic](https://monethic.io) or [Cantina](htt
 
 | Protocol | Type | Report |
 | - | - | :-: |
+| [Uncharted](https://www.uncharted.gg) - GangsterArena v3 | Solidity, BLAST, Gaming | soon |
+| [Uncharted](https://www.uncharted.gg) - Confidential | Solidity, BLAST, Gaming | soon |
+| [Confidential](-) - Confidential | Solidity, MetaMorpho ERC4626 Vaults | soon |
 | [Razor DEX](https://razordex.xyz/) - Decentralized Exchange contracts  | MOVE, Aptos, Sui | [📄 Report.pdf](https://github.com/Monethic/portfolio/blob/main/audit-reports/Smart%20Contract%20Audit%20Report%20-%20Razor%20DEX%20-%20MOVE%20-%20Final.pdf) |
 | [Wolf Game](https://wolf.game) - Cave Game, ERC721 | Solidity, BLAST | [📄 Report.pdf](https://github.com/Monethic/portfolio/blob/main/audit-reports/Smart%20Contract%20Audit%20Report%20-%20Wolf%20Game%20-%20Final.pdf) |
 | [Magic Beans](https://magicbeans.fun) - Magic Beans, OTC | Solana, Rust | [📄 Report.pdf](https://github.com/Monethic/portfolio/blob/main/audit-reports/Smart%20Contract%20Audit%20Report%20-%20Magic%20Beans%20-%20Final.pdf) |
@@ -29,6 +32,7 @@ You can also request a quote on [Monethic](https://monethic.io) or [Cantina](htt
 | Protocol | Type | Report |
 | - | - | :-: |
 | [Jellyverse](https://jellyverse.org) - Jellyverse Staking, Vesting, Governance, ERC20 | Solidity, ERC20 | [📄 Report.pdf](https://3029210178-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F7fJxjrk6a3wPtiSa5D2R%2Fuploads%2FaeeTqg4Ly91ykPM81Chb%2FHacken_Jellyverse_SCA_Jellyverse_Governor_Apr2024_P_2024_320_1_20240524.pdf?alt=media&token=0be257e5-0f43-4d33-bd35-a2c2fcff91b3) |
+| [Confidential](-) - Confidential | Solidity, Gaming | soon |
 | [Layer Zero](https://layerzero.network) - Layer Zero V2 | Solana, Anchor, Rust | [📄 Report.pdf](https://github.com/LayerZero-Labs/Audits/blob/main/audits/Pashov-security-review-FINAL.pdf) |
 | [Mysten Labs](https://mystenlabs.com) - Sui - Adapter & Verifier | MOVE, L1, Sui | [📄 Report.pdf](https://github.com/sui-foundation/security-audits/blob/main/docs/MystenLabs_Adapter_Verifier_L1_Security_Audit_Report_Halborn_Final.pdf) |
 | [Volo Sui](https://www.volosui.com) - VOLO Liquid Staking | MOVE, Sui | [📄 Report.pdf](https://wp.hacken.io/wp-content/uploads/2023/09/VOLO-SC_Audit_Report-2023.08.22-SA-1583.pdf) |
