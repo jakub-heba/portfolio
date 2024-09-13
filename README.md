@@ -33,7 +33,7 @@ You can also request a quote on [Monethic](https://monethic.io) or [Cantina](htt
 | - | - | :-: |
 | [Jellyverse](https://jellyverse.org) - Jellyverse Staking, Vesting, Governance, ERC20 | Solidity, ERC20 | [📄 Report.pdf](https://3029210178-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F7fJxjrk6a3wPtiSa5D2R%2Fuploads%2FaeeTqg4Ly91ykPM81Chb%2FHacken_Jellyverse_SCA_Jellyverse_Governor_Apr2024_P_2024_320_1_20240524.pdf?alt=media&token=0be257e5-0f43-4d33-bd35-a2c2fcff91b3) |
 | [Confidential](-) - Confidential | Solidity, Gaming | soon |
-| [Layer Zero](https://layerzero.network) - Layer Zero V2 | Solana, Anchor, Rust | [📄 Report.pdf](https://github.com/LayerZero-Labs/Audits/blob/main/audits/Pashov-security-review-FINAL.pdf) |
+| [Layer Zero](https://layerzero.network) - Layer Zero V2 | Solana, Anchor, Rust | [📄 Report.pdf](https://github.com/LayerZero-Labs/Audits/blob/main/audits/SolanaEndPoint-Pashov-28MAY2024.pdf) |
 | [Mysten Labs](https://mystenlabs.com) - Sui - Adapter & Verifier | MOVE, L1, Sui | [📄 Report.pdf](https://github.com/sui-foundation/security-audits/blob/main/docs/MystenLabs_Adapter_Verifier_L1_Security_Audit_Report_Halborn_Final.pdf) |
 | [Volo Sui](https://www.volosui.com) - VOLO Liquid Staking | MOVE, Sui | [📄 Report.pdf](https://wp.hacken.io/wp-content/uploads/2023/09/VOLO-SC_Audit_Report-2023.08.22-SA-1583.pdf) |
 | [Satay Finance](https://www.satay.finance) - Satay Aptos | MOVE, Aptos | [📄 Report.pdf](https://github.com/satay-protocol/smart-contract-audit/blob/main/Satay_Finance_Satay_Aptos_Move_Smart_Contract_Security_Audit_Report_Halborn_Final.pdf) |
