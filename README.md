@@ -18,6 +18,7 @@ You can also request a quote on [Monethic](https://monethic.io) or [Cantina](htt
 | - | - | :-: |
 | [Uncharted](https://www.uncharted.gg) - GangsterArena v3 | Solidity, BLAST, Gaming | soon |
 | [Uncharted](https://www.uncharted.gg) - Confidential | Solidity, BLAST, Gaming | soon |
+| [Uncharted](https://www.uncharted.gg) - Confidential | Solidity, BLAST, Gaming | soon |
 | [Confidential](-) - Confidential | Solidity, MetaMorpho ERC4626 Vaults | soon |
 | [Razor DEX](https://razordex.xyz/) - Decentralized Exchange contracts  | MOVE, Aptos, Sui | [📄 Report.pdf](https://github.com/Monethic/portfolio/blob/main/audit-reports/Smart%20Contract%20Audit%20Report%20-%20Razor%20DEX%20-%20MOVE%20-%20Final.pdf) |
 | [Wolf Game](https://wolf.game) - Cave Game, ERC721 | Solidity, BLAST | [📄 Report.pdf](https://github.com/Monethic/portfolio/blob/main/audit-reports/Smart%20Contract%20Audit%20Report%20-%20Wolf%20Game%20-%20Final.pdf) |
