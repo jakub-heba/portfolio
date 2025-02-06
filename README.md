@@ -32,6 +32,8 @@ You can also request a quote on [Monethic](https://monethic.io) or [Cantina](htt
 
 | Protocol | Type | Report |
 | - | - | :-: |
+| [Landslide Network](https://www.landslide.network) - Slide SDK, AvalancheGo Custom VM | Golang, Cosmos, Avalanche, VM | [📄 Report.pdf](https://github.com/oak-security/audit-reports/blob/d22a7e570a22486d01e4326bc0c2b580003144d5/Slide%20SDK/2024-09-20%20Audit%20Report%20-%20Slide%20SDK%20v1.1.pdf) |
+| [Amulet](https://amulet.org) - Amulet Neutron PoS Stretegy | Rust, CosmWasm | [📄 Report.pdf](https://github.com/oak-security/audit-reports/blob/75334b6d1706b73facc73f90aa0f8749a825072c/Amulet/2024-02-07%20Audit%20Report%20-%20Amulet%20Neutron%20PoS%20Strategy%20v1.0.pdf) |
 | [Jellyverse](https://jellyverse.org) - Jellyverse Staking, Vesting, Governance, ERC20 | Solidity, ERC20 | [📄 Report.pdf](https://3029210178-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F7fJxjrk6a3wPtiSa5D2R%2Fuploads%2FaeeTqg4Ly91ykPM81Chb%2FHacken_Jellyverse_SCA_Jellyverse_Governor_Apr2024_P_2024_320_1_20240524.pdf?alt=media&token=0be257e5-0f43-4d33-bd35-a2c2fcff91b3) |
 | [Confidential](-) - Confidential | Solidity, Gaming | soon |
 | [Glue Protocol](https://glue.net) - Substrate pallets/Parachain/Node | Substrate, Rust | [📄 Report.pdf](https://hashlock.com/wp-content/uploads/2024/08/Glue-Rust-Smart-Contract-Audit-Report-Final-Report-v1.pdf) |
