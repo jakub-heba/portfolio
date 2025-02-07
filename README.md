@@ -16,6 +16,7 @@ You can also request a quote on [Monethic](https://monethic.io) or [Cantina](htt
 
 | Protocol | Type | Report |
 | - | - | :-: |
+| [Legion Solana](https://legion.cc) - Solana private Code4rena (Zenith) assessment  | Rust, Solana | [📄 Report.pdf](https://github.com/code-423n4/zenith-portfolio/blob/main/reports/2024-09-legion-solana-zenith.pdf) |
 | [Razor DEX](https://razordex.xyz/) - Decentralized Exchange contracts  | MOVE, Aptos, Sui | [📄 Report.pdf](https://github.com/Monethic/portfolio/blob/main/audit-reports/Smart%20Contract%20Audit%20Report%20-%20Razor%20DEX%20-%20MOVE%20-%20Final.pdf) |
 | [Wolf Game](https://wolf.game) - Cave Game, ERC721 | Solidity, BLAST | [📄 Report.pdf](https://github.com/Monethic/portfolio/blob/main/audit-reports/Smart%20Contract%20Audit%20Report%20-%20Wolf%20Game%20-%20Final.pdf) |
 | [Magic Beans](https://magicbeans.fun) - Magic Beans, OTC | Solana, Rust | [📄 Report.pdf](https://github.com/Monethic/portfolio/blob/main/audit-reports/Smart%20Contract%20Audit%20Report%20-%20Magic%20Beans%20-%20Final.pdf) |
