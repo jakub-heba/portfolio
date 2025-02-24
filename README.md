@@ -14,7 +14,7 @@ You can also request a quote on [Monethic](https://monethic.io) or [Cantina](htt
 
 ---
 
-Current public reports count: *63*
+Current public reports count: *64*
 
 ---
 ## Private & Solo Audits
