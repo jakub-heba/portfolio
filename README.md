@@ -28,7 +28,7 @@ Current public reports count: *63*
 | [Orderly Network](https://orderly.network) - Asset Manager Smart Contract  | Rust, NEAR | [📄 Report.pdf](https://github.com/OrderlyNetwork/Audits/blob/main/Independent%20Researcher_09_2023.pdf) |
 | [Cascadia Foundation](https://cascadia.gitbook.io/gitbook/) - Liquidity Pools (Curve fork) Contracts  | Solidity, Vyper |-|
 | [Holoride](https://dapp.holoride.com/bridge) - Holoride Ethereum <> MultiversX bridge | Rust, MultiversX/Elrond | [📄 Report.pdf](https://drive.google.com/file/d/1gAlMuEZNotejVqVdxHqVM3Qben79ETHt/view) |
-| [Uncharted](https://www.uncharted.gg) - GangsterArena v3 | Solidity, BLAST, Gaming | soon |
+| [Uncharted](https://www.uncharted.gg) - GangsterArena 5 | Solidity, BLAST, Gaming | [📄 Report.pdf](https://drive.google.com/file/d/1OJ-VrKXmw0NUKswuUBIAlegZvGUvhTH1/view) |
 | [Uncharted](https://www.uncharted.gg) - Confidential | Solidity, BLAST, Gaming | soon |
 | [Uncharted](https://www.uncharted.gg) - Confidential | Solidity, BLAST, Gaming | soon |
 | [Confidential](-) - Confidential | Solidity, MetaMorpho ERC4626 Vaults | soon |
