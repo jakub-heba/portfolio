@@ -22,6 +22,7 @@ Current public reports count: *64*
 | Protocol | Type | Report |
 | - | - | :-: |
 | [Legion Solana](https://legion.cc) - Solana private Code4rena (Zenith) assessment  | Rust, Solana | [📄 Report.pdf](https://github.com/code-423n4/zenith-portfolio/blob/main/reports/2024-09-legion-solana-zenith.pdf) |
+| [Kinode OS](https://github.com/hyperware-ai/hyperdrive) - Kinode OS security & architecture review | Rust, OS, Architecture | [📄 Report.pdf](https://github.com/Enigma-Dark/security-review-reports/blob/main/2024-11-18_Architecture_Review_Report_Kinode.pdf) |
 | [Razor DEX](https://razordex.xyz/) - Decentralized Exchange contracts  | MOVE, Aptos, Sui | [📄 Report.pdf](https://github.com/Monethic/portfolio/blob/main/audit-reports/Smart%20Contract%20Audit%20Report%20-%20Razor%20DEX%20-%20MOVE%20-%20Final.pdf) |
 | [Wolf Game](https://wolf.game) - Cave Game, ERC721 | Solidity, BLAST | [📄 Report.pdf](https://github.com/Monethic/portfolio/blob/main/audit-reports/Smart%20Contract%20Audit%20Report%20-%20Wolf%20Game%20-%20Final.pdf) |
 | [Magic Beans](https://magicbeans.fun) - Magic Beans, OTC | Solana, Rust | [📄 Report.pdf](https://github.com/Monethic/portfolio/blob/main/audit-reports/Smart%20Contract%20Audit%20Report%20-%20Magic%20Beans%20-%20Final.pdf) |
@@ -37,6 +38,7 @@ Current public reports count: *64*
 
 | Protocol | Type | Report |
 | - | - | :-: |
+| [Unhosted Wallet](https://unhosted.com) - Unhosted Wallet Extension Core & Backend Services | TypeScript, Extension, Wallet | [📄 Report.pdf](https://github.com/Enigma-Dark/security-review-reports/blob/main/2025-03_Security_Review_Penetration_Testing_Unhosted%20Wallet_Extension%20Core_%26_Backend_Services.pdf) |
 | [Landslide Network](https://www.landslide.network) - Slide SDK, AvalancheGo Custom VM | Golang, Cosmos, Avalanche, VM | [📄 Report.pdf](https://github.com/oak-security/audit-reports/blob/d22a7e570a22486d01e4326bc0c2b580003144d5/Slide%20SDK/2024-09-20%20Audit%20Report%20-%20Slide%20SDK%20v1.1.pdf) |
 | [THORChain](https://thorchain.org) - Validator-scheduled Standard Cosmos Hard Fork | Golang, Cosmos SDK | [📄 Report.pdf](https://github.com/oak-security/audit-reports/blob/main/THORChain/2024-12-16%20Audit%20Report%20-%20Validator-scheduled%20Standard%20Cosmos%20Hard%20Fork%20v1.0.pdf) |
 | [Amulet](https://amulet.org) - Amulet Neutron PoS Stretegy | Rust, CosmWasm | [📄 Report.pdf](https://github.com/oak-security/audit-reports/blob/75334b6d1706b73facc73f90aa0f8749a825072c/Amulet/2024-02-07%20Audit%20Report%20-%20Amulet%20Neutron%20PoS%20Strategy%20v1.0.pdf) |
