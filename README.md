@@ -39,6 +39,7 @@ Current public reports count: *66*
 | Protocol | Type | Report |
 | - | - | :-: |
 | [Unhosted Wallet](https://unhosted.com) - Unhosted Wallet Extension Core & Backend Services | TypeScript, Extension, Wallet | [📄 Report.pdf](https://github.com/Enigma-Dark/security-review-reports/blob/main/2025-03_Security_Review_Penetration_Testing_Unhosted%20Wallet_Extension%20Core_%26_Backend_Services.pdf) |
+| [Shogun Bot](https://t.me/ShogunTradingBot) - Shogun Telegram Bot Application | TypeScript, Telegram, Wallet | [📄 Report.pdf](https://github.com/zenith-security/reports/blob/main/reports/Shogun%20-%20Zenith%20Audit%20Report.pdf) |
 | [Landslide Network](https://www.landslide.network) - Slide SDK, AvalancheGo Custom VM | Golang, Cosmos, Avalanche, VM | [📄 Report.pdf](https://github.com/oak-security/audit-reports/blob/d22a7e570a22486d01e4326bc0c2b580003144d5/Slide%20SDK/2024-09-20%20Audit%20Report%20-%20Slide%20SDK%20v1.1.pdf) |
 | [THORChain](https://thorchain.org) - Validator-scheduled Standard Cosmos Hard Fork | Golang, Cosmos SDK | [📄 Report.pdf](https://github.com/oak-security/audit-reports/blob/main/THORChain/2024-12-16%20Audit%20Report%20-%20Validator-scheduled%20Standard%20Cosmos%20Hard%20Fork%20v1.0.pdf) |
 | [Amulet](https://amulet.org) - Amulet Neutron PoS Stretegy | Rust, CosmWasm | [📄 Report.pdf](https://github.com/oak-security/audit-reports/blob/75334b6d1706b73facc73f90aa0f8749a825072c/Amulet/2024-02-07%20Audit%20Report%20-%20Amulet%20Neutron%20PoS%20Strategy%20v1.0.pdf) |
