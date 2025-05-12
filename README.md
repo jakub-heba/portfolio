@@ -30,6 +30,9 @@ Current public reports count: *71*
 | [Cascadia Foundation](https://cascadia.gitbook.io/gitbook/) - Liquidity Pools (Curve fork) Contracts  | Solidity, Vyper |-|
 | [Holoride](https://dapp.holoride.com/bridge) - Holoride Ethereum <> MultiversX bridge | Rust, MultiversX/Elrond | [📄 Report.pdf](https://drive.google.com/file/d/1gAlMuEZNotejVqVdxHqVM3Qben79ETHt/view) |
 | [Uncharted](https://www.uncharted.gg) - GangsterArena 5 | Solidity, BLAST, Gaming | [📄 Report.pdf](https://drive.google.com/file/d/1OJ-VrKXmw0NUKswuUBIAlegZvGUvhTH1/view) |
+| [Tezos](https://tezos.com) - Tezos Metamask Snap | TypeScript, Metamask Snap | [📄 Report.pdf](https://sayfer.io/audits/metamask-snap-audit-report-for-tezos/) |
+| [Polkadot](https://polkadot.com) - Polkadot Metamask Snap | TypeScript, Metamask Snap | [📄 Report.pdf](https://sayfer.io/audits/metamask-snap-audit-report-for-polkadot/) |
+| [Sei](https://www.sei.io) - Sei Metamask Snap | TypeScript, Metamask Snap | [📄 Report.pdf](https://sayfer.io/audits/metamask-snap-audit-report-for-sei/) |
 | [Uncharted](https://www.uncharted.gg) - Confidential | Solidity, BLAST, Gaming | soon |
 | [Uncharted](https://www.uncharted.gg) - Confidential | Solidity, BLAST, Gaming | soon |
 | [Confidential](-) - Confidential | Solidity, MetaMorpho ERC4626 Vaults | soon |
@@ -99,9 +102,6 @@ Current public reports count: *71*
 | [Osmosis Labs](https://osmosis.zone/) - Osmosis Transmuter v3 | Rust, CosmWasm | [📄 Report.pdf](https://github.com/oak-security/audit-reports/blob/491d60921f02ba76605fe1326c5a956fb1457647/Osmosis%20Labs/2024-05-15%20Audit%20Report%20-%20Osmosis%20Transmuter%20v3%20v1.0.pdf) |
 | [Astroport](https://astroport.fi/en) - Astroport Hub Neutron Migration | Rust, CosmWasm | [📄 Report.pdf](https://github.com/oak-security/audit-reports/blob/2f78993697732821ed8a84834f95bbea99afc78f/Astroport/2024-05-22%20Audit%20Report%20-%20Astroport%20Hub%20Neutron%20Migration%20v1.0.pdf) |
 | [Yieldmos](https://www.yieldmos.com) - Outpost Osmosis | Rust, CosmWasm | [📄 Report.pdf](https://github.com/oak-security/audit-reports/blob/6547cfbb15a0533e9dee9be0e5569e0e046ed875/Yieldmos/2024-05-17%20Audit%20Report%20-%20Yieldmos%20Outposts%20Osmosis%20v1.0.pdf) |
-| [Tezos](https://tezos.com) - Tezos Metamask Snap | TypeScript, Metamask Snap | [📄 Report.pdf](https://sayfer.io/audits/metamask-snap-audit-report-for-tezos/) |
-| [Polkadot](https://polkadot.com) - Polkadot Metamask Snap | TypeScript, Metamask Snap | [📄 Report.pdf](https://sayfer.io/audits/metamask-snap-audit-report-for-polkadot/) |
-| [Sei](https://www.sei.io) - Sei Metamask Snap | TypeScript, Metamask Snap | [📄 Report.pdf](https://sayfer.io/audits/metamask-snap-audit-report-for-sei/) |
 
 ## Certificates
 
