@@ -14,7 +14,7 @@ You can also request a quote on [Monethic](https://monethic.io) or [Cantina](htt
 
 ---
 
-Current public reports count: *67*
+Current public reports count: *71*
 
 ---
 ## Private & Solo Audits
@@ -42,6 +42,7 @@ Current public reports count: *67*
 | [Shogun Bot](https://t.me/ShogunTradingBot) - Shogun Telegram Bot Application | TypeScript, Telegram, Wallet | [📄 Report.pdf](https://github.com/zenith-security/reports/blob/main/reports/Shogun%20-%20Zenith%20Audit%20Report.pdf) |
 | [Landslide Network](https://www.landslide.network) - Slide SDK, AvalancheGo Custom VM | Golang, Cosmos, Avalanche, VM | [📄 Report.pdf](https://github.com/oak-security/audit-reports/blob/d22a7e570a22486d01e4326bc0c2b580003144d5/Slide%20SDK/2024-09-20%20Audit%20Report%20-%20Slide%20SDK%20v1.1.pdf) |
 | [THORChain](https://thorchain.org) - Validator-scheduled Standard Cosmos Hard Fork | Golang, Cosmos SDK | [📄 Report.pdf](https://github.com/oak-security/audit-reports/blob/main/THORChain/2024-12-16%20Audit%20Report%20-%20Validator-scheduled%20Standard%20Cosmos%20Hard%20Fork%20v1.0.pdf) |
+| [Dusa](https://dusa.io) - Dusa AMM | AssemblyScript, AMM, Massa | [📄 Report.pdf](https://sayfer.io/audits/smart-contract-audit-report-for-dusa/) |
 | [Amulet](https://amulet.org) - Amulet Neutron PoS Stretegy | Rust, CosmWasm | [📄 Report.pdf](https://github.com/oak-security/audit-reports/blob/75334b6d1706b73facc73f90aa0f8749a825072c/Amulet/2024-02-07%20Audit%20Report%20-%20Amulet%20Neutron%20PoS%20Strategy%20v1.0.pdf) |
 | [Archisinal](https://www.archisinal.io) - Archisinal Marketplace | Rust, NFT, Ink!, Polkadot | [📄 Report.pdf](https://github.com/oak-security/audit-reports/blob/main/Archisinal/2024-08-21%20Audit%20Report%20-%20Archisinal%20Marketplace%20v1.0.pdf) |
 | [Zeitgeist](https://zeitgeist.pm) - Zeitgeist Combinatorial Betting and Futarchy | Rust, Substrate, Polkadot | [📄 Report.pdf](https://github.com/oak-security/audit-reports/blob/main/Zeitgeist/2025-01-02%20Audit%20Report%20-%20Zeitgeist%20Combinatorial%20Betting%20and%20Futarchy%20Security%20Audit%20v1.0.pdf) |
@@ -98,8 +99,9 @@ Current public reports count: *67*
 | [Osmosis Labs](https://osmosis.zone/) - Osmosis Transmuter v3 | Rust, CosmWasm | [📄 Report.pdf](https://github.com/oak-security/audit-reports/blob/491d60921f02ba76605fe1326c5a956fb1457647/Osmosis%20Labs/2024-05-15%20Audit%20Report%20-%20Osmosis%20Transmuter%20v3%20v1.0.pdf) |
 | [Astroport](https://astroport.fi/en) - Astroport Hub Neutron Migration | Rust, CosmWasm | [📄 Report.pdf](https://github.com/oak-security/audit-reports/blob/2f78993697732821ed8a84834f95bbea99afc78f/Astroport/2024-05-22%20Audit%20Report%20-%20Astroport%20Hub%20Neutron%20Migration%20v1.0.pdf) |
 | [Yieldmos](https://www.yieldmos.com) - Outpost Osmosis | Rust, CosmWasm | [📄 Report.pdf](https://github.com/oak-security/audit-reports/blob/6547cfbb15a0533e9dee9be0e5569e0e046ed875/Yieldmos/2024-05-17%20Audit%20Report%20-%20Yieldmos%20Outposts%20Osmosis%20v1.0.pdf) |
-
-
+| [Tezos](https://tezos.com) - Tezos Metamask Snap | TypeScript, Metamask Snap | [📄 Report.pdf](https://sayfer.io/audits/metamask-snap-audit-report-for-tezos/) |
+| [Polkadot](https://polkadot.com) - Polkadot Metamask Snap | TypeScript, Metamask Snap | [📄 Report.pdf](https://sayfer.io/audits/metamask-snap-audit-report-for-polkadot/) |
+| [Sei](https://www.sei.io) - Sei Metamask Snap | TypeScript, Metamask Snap | [📄 Report.pdf](https://sayfer.io/audits/metamask-snap-audit-report-for-sei/) |
 
 ## Certificates
 
