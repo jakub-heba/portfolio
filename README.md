@@ -14,7 +14,7 @@ You can also request a quote on [Monethic](https://monethic.io) or [Cantina](htt
 
 ---
 
-Current public reports count: *72*
+Current public reports count: *73*
 
 ---
 ## Private & Solo Audits
@@ -46,6 +46,7 @@ Current public reports count: *72*
 | [Landslide Network](https://www.landslide.network) - Slide SDK, AvalancheGo Custom VM | Golang, Cosmos, Avalanche, VM | [📄 Report.pdf](https://github.com/oak-security/audit-reports/blob/d22a7e570a22486d01e4326bc0c2b580003144d5/Slide%20SDK/2024-09-20%20Audit%20Report%20-%20Slide%20SDK%20v1.1.pdf) |
 | [THORChain](https://thorchain.org) - Validator-scheduled Standard Cosmos Hard Fork | Golang, Cosmos SDK | [📄 Report.pdf](https://github.com/oak-security/audit-reports/blob/main/THORChain/2024-12-16%20Audit%20Report%20-%20Validator-scheduled%20Standard%20Cosmos%20Hard%20Fork%20v1.0.pdf) |
 | [Dusa](https://dusa.io) - Dusa AMM | AssemblyScript, AMM, Massa | [📄 Report.pdf](https://sayfer.io/audits/smart-contract-audit-report-for-dusa/) |
+| [HadronLabs](https://hadronlabs.org) - Drop Initia Liquidity Provider | MOVE, MoveVM, CosmosSDK, Initia | [📄 Report.pdf](https://github.com/oak-security/audit-reports/blob/main/Drop/2025-04-17%20Audit%20Report%20-%20Drop%20Initia%20Liquidity%20Provider%20v1.0.pdf) |
 | [Amulet](https://amulet.org) - Amulet Neutron PoS Stretegy | Rust, CosmWasm | [📄 Report.pdf](https://github.com/oak-security/audit-reports/blob/75334b6d1706b73facc73f90aa0f8749a825072c/Amulet/2024-02-07%20Audit%20Report%20-%20Amulet%20Neutron%20PoS%20Strategy%20v1.0.pdf) |
 | [Archisinal](https://www.archisinal.io) - Archisinal Marketplace | Rust, NFT, Ink!, Polkadot | [📄 Report.pdf](https://github.com/oak-security/audit-reports/blob/main/Archisinal/2024-08-21%20Audit%20Report%20-%20Archisinal%20Marketplace%20v1.0.pdf) |
 | [Zeitgeist](https://zeitgeist.pm) - Zeitgeist Combinatorial Betting and Futarchy | Rust, Substrate, Polkadot | [📄 Report.pdf](https://github.com/oak-security/audit-reports/blob/main/Zeitgeist/2025-01-02%20Audit%20Report%20-%20Zeitgeist%20Combinatorial%20Betting%20and%20Futarchy%20Security%20Audit%20v1.0.pdf) |
