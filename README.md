@@ -14,7 +14,7 @@ You can also request a quote on [Monethic](https://monethic.io) or [Cantina](htt
 
 ---
 
-Current public reports count: *71*
+Current public reports count: *72*
 
 ---
 ## Private & Solo Audits
@@ -97,6 +97,7 @@ Current public reports count: *71*
 | [Snowbridge](https://docs.snowbridge.network) - Updates, Ethereum <=> Polkadot bridge | Rust, Solidity, Polkadot, Ethereum | [📄 Report.pdf](https://github.com/oak-security/audit-reports/blob/main/Snowbridge/2024-08-16%20Audit%20Report%20-%20Snowbridge%20Updates%20v1.0.pdf) |
 | [Snowbridge](https://docs.snowbridge.network) - Updates 2, Ethereum <=> Polkadot bridge | Rust, Solidity, Polkadot, Ethereum | [📄 Report.pdf](https://github.com/oak-security/audit-reports/blob/main/Snowbridge/2024-08-10%20Audit%20Report%20-%20Snowbridge%20Updates%202%20v1.0.pdf) |
 | [Snowbridge](https://docs.snowbridge.network) - Updates 3, Ethereum <=> Polkadot bridge | Rust, Solidity, Polkadot, Ethereum | [📄 Report.pdf](https://github.com/oak-security/audit-reports/blob/main/Snowbridge/2025-01-07%20Audit%20Report%20-%20Snowbridge%20Updates%203%20v1.0.pdf) |
+| [Snowbridge](https://docs.snowbridge.network) - Updates 4, Ethereum <=> Polkadot bridge | Rust, Solidity, Polkadot, Ethereum | [📄 Report.pdf](https://github.com/oak-security/audit-reports/blob/main/Snowbridge/2025-05-06%20Audit%20Report%20-%20Snowbridge%20Updates%204%20v1.0.pdf) |
 | [Ixo World](https://www.ixo.world) - IXO Swap | Rust, CosmWasm | [📄 Report.pdf](https://github.com/oak-security/audit-reports/blob/main/ixo/2024-03-15%20Audit%20Report%20-%20IxoSwap%20v1.0.pdf) |
 | [Ninja Blaze](https://blaze.ninja) - Ninja Blaze Double | Rust, CosmWasm | [📄 Report.pdf](https://github.com/oak-security/audit-reports/blob/main/Ninja%20Blaze/2024-05-06%20Audit%20Report%20-%20Ninja%20Blaze%20Double%20v1.0.pdf) |
 | [Osmosis Labs](https://osmosis.zone/) - Osmosis Transmuter v3 | Rust, CosmWasm | [📄 Report.pdf](https://github.com/oak-security/audit-reports/blob/491d60921f02ba76605fe1326c5a956fb1457647/Osmosis%20Labs/2024-05-15%20Audit%20Report%20-%20Osmosis%20Transmuter%20v3%20v1.0.pdf) |
