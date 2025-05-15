@@ -68,7 +68,7 @@ Current public reports count: *73*
 | [Starlay Finance](https://starlay.finance) - Starlay Protocol WASM | Rust, ink! | [📄 Report.pdf](https://github.com/oak-security/audit-reports/blob/07caf5ba430983f6b53786f54aa5a6919e99d214/Starlay/2024-03-06%20Audit%20Report%20-%20Starlay%20Protocol%20Wasm%20v1.0.pdf) |
 | [Ociswap](https://ociswap.com) - Scrypto AVL Tree Implementation | Rust, Scrypto, AVL Tree, Radix DLT | [📄 Report.pdf](https://wp.hacken.io/wp-content/uploads/2024/01/Ociswap_AVL-tree_SC-Audit-Report_21112023_SA-1999-1.pdf) |
 | [Ociswap](https://ociswap.com) - Scrypto Math | Rust, Scrypto, Radix DLT | [📄 Report.pdf](https://wp.hacken.io/wp-content/uploads/2024/02/Ociswap_Math_SC-Audit-Report_21112023_SA-1999.pdf) |
-| [Ociswap](https://ociswap.com) - Scrypto Precision Pool | Rust, Scrypto, Radix DLT | [📄 Report.pdf](https://audits.hacken.io/ociswap/sca-ociswap-precision-pool-aug2024/) |
+| [Ociswap](https://ociswap.com) - Scrypto Precision Pool | Rust, Scrypto, Radix DLT | [📄 Report.pdf](https://hacken.io/audits/ociswap/sca-ociswap-precision-pool-v2-aug2024/) |
 | [Ociswap](https://ociswap.com) - Scrypto Flex Pool | Rust, Scrypto, Radix DLT | [📄 Report.pdf](https://audits.hacken.io/ociswap/sca-ociswap-flex-pool-aug2024/) |
 | [Ociswap](https://ociswap.com) - Scrypto Oracle | Rust, Scrypto, Radix DLT | [📄 Report.pdf](https://audits.hacken.io/ociswap/sca-ociswap-oracle-aug2024/) |
 | [Hyperlane](https://www.hyperlane.xyz) - cw-hyperlane | Rust, CosmWasm | [📄 Report.pdf](https://github.com/oak-security/audit-reports/blob/07caf5ba430983f6b53786f54aa5a6919e99d214/Hyperlane/2024-02-13%20Audit%20Report%20-%20cw-hyperlane%20v1.0.pdf) |
