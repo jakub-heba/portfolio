@@ -115,7 +115,7 @@ Current public reports count: *77*
 - Offensive Security Certified Professional (OSCP) - [Offensive Security OSCP proof](https://www.credly.com/badges/bc74ee74-7934-4398-a4c8-5c76598d63ac)
 - Lead ISO27001 Auditor - Information Security Management Systems (ISMS) Auditor/Lead Auditor (BS ISO/IEC 27001:2013)
 
-## CVE-s
+## 0 day vulnerabilities found which were assigned CVE numbers - mostly web applications
 
 - CVE-2019-10070 - Apache Atlas, Stored Cross Site Scripting
 - CVE-2020-6856 - JOC Cockpit, Jobscheduler, XML External Entity
