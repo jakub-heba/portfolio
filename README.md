@@ -14,7 +14,7 @@ You can also request a quote on [Monethic](https://monethic.io) or [Cantina](htt
 
 ---
 
-Current public reports count: *82*
+Current public reports count: *83*
 
 ---
 ## Private & Solo Audits
@@ -22,6 +22,7 @@ Current public reports count: *82*
 | Protocol | Type | Report |
 | - | - | :-: |
 | [Legion Solana](https://legion.cc) - Solana private Code4rena (Zenith) assessment  | Rust, Solana | [📄 Report.pdf](https://github.com/code-423n4/zenith-portfolio/blob/main/reports/2024-09-legion-solana-zenith.pdf) |
+| [Medley Finance](https://www.medley.finance) - Decentralized Exchange on Solana  | Rust, Solana | [📄 Report.pdf](https://sayfer.io/wp-content/uploads/2025/04/Sayfer-2025-04-Smart-Contract-Audit-Report-for-Medley-Finance-1.pdf) |
 | [Legion Solana](https://legion.cc) - Solana second private Code4rena (Zenith) assessment  | Rust, Solana | [📄 Report.pdf](https://github.com/zenith-security/reports/blob/main/reports/Legion%20Solana%20-%20Zenith%20Audit%20Report.pdf) |
 | [Succinct](https://www.succinct.xyz) - Succinct SP1 Zero-Knowledge Virtual Machine (zkVM) | Ethereum, ZK, Cryptography, Solidity | [📄 Report.pdf](https://sayfer.io/audits/smart-contract-audit-report-for-succinct/) |
 | [Compass Wallet](https://compasswallet.io) - Compass Wallet for Sei | TypeScript, Extension, Wallet | [📄 Report.pdf](https://drive.google.com/file/d/1Im_Hr2KMlffJcPoab0Kz6bV7KrrkgCpI/view?usp=share_link) |
