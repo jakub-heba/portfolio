@@ -14,7 +14,7 @@ You can also request a quote on [Monethic](https://monethic.io) or [Cantina](htt
 
 ---
 
-Current public reports count: *78*
+Current public reports count: *82*
 
 ---
 ## Private & Solo Audits
@@ -24,6 +24,10 @@ Current public reports count: *78*
 | [Legion Solana](https://legion.cc) - Solana private Code4rena (Zenith) assessment  | Rust, Solana | [📄 Report.pdf](https://github.com/code-423n4/zenith-portfolio/blob/main/reports/2024-09-legion-solana-zenith.pdf) |
 | [Legion Solana](https://legion.cc) - Solana second private Code4rena (Zenith) assessment  | Rust, Solana | [📄 Report.pdf](https://github.com/zenith-security/reports/blob/main/reports/Legion%20Solana%20-%20Zenith%20Audit%20Report.pdf) |
 | [Succinct](https://www.succinct.xyz) - Succinct SP1 Zero-Knowledge Virtual Machine (zkVM) | Ethereum, ZK, Cryptography, Solidity | [📄 Report.pdf](https://sayfer.io/audits/smart-contract-audit-report-for-succinct/) |
+| [Compass Wallet](https://compasswallet.io) - Compass Wallet for Sei | TypeScript, Extension, Wallet | [📄 Report.pdf](https://drive.google.com/file/d/1Im_Hr2KMlffJcPoab0Kz6bV7KrrkgCpI/view?usp=share_link) |
+| [Leap Wallet](https://compasswallet.io) - Leap Cosmos Wallet | TypeScript, Extension, Wallet | [📄 Report.pdf](https://drive.google.com/file/d/1Im_Hr2KMlffJcPoab0Kz6bV7KrrkgCpI/view?usp=share_link) |
+| [Compass Wallet](https://compasswallet.io) - Compass Mobile Wallet for Sei | Android, iOS, Mobile Application, Wallet | [📄 Report.pdf](https://drive.google.com/file/d/1l5dOa-MPKqXMCxvQurbUcNBG9w1AVt-p/view?usp=share_link) |
+| [Leap Wallet](https://compasswallet.io) - Leap Cosmos Mobile Wallet | Android, iOS, Mobile Application, Wallet | [📄 Report.pdf](https://drive.google.com/file/d/1l5dOa-MPKqXMCxvQurbUcNBG9w1AVt-p/view?usp=share_link) |
 | [Kinode OS](https://github.com/hyperware-ai/hyperdrive) - Kinode OS security & architecture review | Rust, OS, Architecture | [📄 Report.pdf](https://github.com/Enigma-Dark/security-review-reports/blob/main/2024-11-18_Architecture_Review_Report_Kinode.pdf) |
 | [Razor DEX](https://razordex.xyz/) - Decentralized Exchange contracts  | MOVE, Aptos, Sui | [📄 Report.pdf](https://github.com/Monethic/portfolio/blob/main/audit-reports/Smart%20Contract%20Audit%20Report%20-%20Razor%20DEX%20-%20MOVE%20-%20Final.pdf) |
 | [Wolf Game](https://wolf.game) - Cave Game, ERC721 | Solidity, BLAST | [📄 Report.pdf](https://github.com/Monethic/portfolio/blob/main/audit-reports/Smart%20Contract%20Audit%20Report%20-%20Wolf%20Game%20-%20Final.pdf) |
