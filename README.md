@@ -14,7 +14,7 @@ You can also request a quote on [Monethic](https://monethic.io) or [Cantina](htt
 
 ---
 
-Current public reports count: *84*
+Current public reports count: *86*
 
 ---
 ## Private & Solo Audits
@@ -53,6 +53,8 @@ Current public reports count: *84*
 | [Aave](https://aave.com) - Aave on Aptos Core v3.0.2  | MOVE, Aptos, Aave v3 | [📄 Report.pdf](https://github.com/aave/aptos-aave-v3/blob/main/audits/Aave%20Aptos%20Core%20V3.0.2%20Report.pdf) |
 | [Aave](https://aave.com) - Aave on Aptos Core v3.1-3.3  | MOVE, Aptos, Aave v3 | [📄 Report.pdf](https://github.com/aave/aptos-aave-v3/blob/main/audits/Aave%20Aptos%20Core%20V3.1-V3.3%20Report.pdf) |
 | [Aave](https://aave.com) - Aave on Aptos Periphery  | MOVE, Aptos, Aave v3, Periphery | [📄 Report.pdf](https://github.com/aave/aptos-aave-v3/blob/main/audits/Aave%20Aptos%20Periphery%20Report.pdf) |
+| [Hydration](https://hydration.net/) - Hydration Peg Drift Stableswap | Rust, Substrate, Polkadot | [📄 Report.pdf](https://github.com/oak-security/audit-reports/blob/main/Hydration/2025-05-29%20Audit%20Report%20-%20Hydration%20Peg%20Drift%20Stableswap%20v1.0.pdf) |
+| [SelfChain](https://www.selfchain.xyz/) - SelfChain Cosmos SDK modules | Golang, Cosmos SDK | [📄 Report.pdf](https://github.com/oak-security/audit-reports/blob/main/Selfchain/2025-06-18%20Audit%20Report%20-%20Selfchain.pdf) |
 | [Shogun Bot](https://t.me/ShogunTradingBot) - Shogun Telegram Bot Application | TypeScript, Telegram, Wallet | [📄 Report.pdf](https://github.com/zenith-security/reports/blob/main/reports/Shogun%20-%20Zenith%20Audit%20Report.pdf) |
 | [Landslide Network](https://www.landslide.network) - Slide SDK, AvalancheGo Custom VM | Golang, Cosmos, Avalanche, VM | [📄 Report.pdf](https://github.com/oak-security/audit-reports/blob/d22a7e570a22486d01e4326bc0c2b580003144d5/Slide%20SDK/2024-09-20%20Audit%20Report%20-%20Slide%20SDK%20v1.1.pdf) |
 | [THORChain](https://thorchain.org) - Validator-scheduled Standard Cosmos Hard Fork | Golang, Cosmos SDK | [📄 Report.pdf](https://github.com/oak-security/audit-reports/blob/main/THORChain/2024-12-16%20Audit%20Report%20-%20Validator-scheduled%20Standard%20Cosmos%20Hard%20Fork%20v1.0.pdf) |
