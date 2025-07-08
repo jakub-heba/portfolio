@@ -72,7 +72,6 @@ Current public reports count: *86*
 | [Glue](https://glue.net) - EVM SC & L1 Relay chains | Rust, Substrate, Polkadot | [📄 Report.pdf](https://hashlock.com/wp-content/uploads/2024/08/Glue-Rust-Smart-Contract-Audit-Report-Final-Report-v1.pdf) |
 | [5ire](https://www.5ire.org/) - Substrate Runtime and Pallets | Rust, Substrate, Polkadot | [📄 Report.pdf](https://hashlock.com/wp-content/uploads/2024/08/5ire-L1-Audit-Report-Final-Report.pdf) |
 | [Astroport](https://astroport.fi/en) - Astroport Fee Sharing | Rust, CosmWasm | [📄 Report.pdf](https://github.com/oak-security/audit-reports/blob/main/Astroport/2024-10-17%20Audit%20Report%20-%20Astroport%20Fee%20Sharing%20v1.0.pdf) |
-| [Confidential](-) - Confidential | Solidity, Gaming | soon |
 | [Layer Zero](https://layerzero.network) - Layer Zero V2 | Solana, Anchor, Rust | [📄 Report.pdf](https://github.com/LayerZero-Labs/Audits/blob/main/audits/SolanaEndPoint-Pashov-28MAY2024.pdf) |
 | [Mysten Labs](https://mystenlabs.com) - Sui - Adapter & Verifier | MOVE, L1, Sui | [📄 Report.pdf](https://github.com/sui-foundation/security-audits/blob/main/docs/MystenLabs_Adapter_Verifier_L1_Security_Audit_Report_Halborn_Final.pdf) |
 | [Volo Sui](https://www.volosui.com) - VOLO Liquid Staking | MOVE, Sui | [📄 Report.pdf](https://wp.hacken.io/wp-content/uploads/2023/09/VOLO-SC_Audit_Report-2023.08.22-SA-1583.pdf) |
