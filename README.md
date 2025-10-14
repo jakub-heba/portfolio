@@ -14,7 +14,7 @@ You can also request a quote on [Monethic](https://monethic.io) or [Cantina](htt
 
 ---
 
-Current public reports count: *86*
+Current public reports count: *87*
 
 ---
 ## Private & Solo Audits
@@ -49,6 +49,7 @@ Current public reports count: *86*
 
 | Protocol | Type | Report |
 | - | - | :-: |
+| [Arkeo Network](https://arkeo.network) - Arkeo Chain  | Golang, Cosmos SDK | [📄 Report.pdf](https://github.com/Monethic/portfolio/blob/main/audit-reports/Blockchain%20Audit%20Report%20-%20Arkeo%20-%20Final.pdf) |
 | [Unhosted Wallet](https://unhosted.com) - Unhosted Wallet Extension Core & Backend Services | TypeScript, Extension, Wallet | [📄 Report.pdf](https://github.com/Enigma-Dark/security-review-reports/blob/main/2025-03_Security_Review_Penetration_Testing_Unhosted%20Wallet_Extension%20Core_%26_Backend_Services.pdf) |
 | [Aave](https://aave.com) - Aave on Aptos Core v3.0.2  | MOVE, Aptos, Aave v3 | [📄 Report.pdf](https://github.com/aave/aptos-aave-v3/blob/main/audits/Certora%20Aave%20Aptos%20Core%20V3.0.2%20Report.pdf) |
 | [Aave](https://aave.com) - Aave on Aptos Core v3.1-3.3  | MOVE, Aptos, Aave v3 | [📄 Report.pdf](https://github.com/aave/aptos-aave-v3/blob/main/audits/Certora%20Aave%20Aptos%20Core%20V3.1-V3.3%20Report.pdf) |
